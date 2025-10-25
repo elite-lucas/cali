@@ -10,7 +10,7 @@
     "cardForeground": { "hue": 184.6, "saturation": 13.1, "lightness": 19.4 },
     "border": { "hue": 0, "saturation": 0, "lightness": 89 },
     "input": { "hue": 0, "saturation": 0, "lightness": 89 },
-    "primary": { "hue": 199, "saturation": 100, "lightness": 62 },
+    "primary": { "hue": 199, "saturation": 100, "lightness": 50 },
     "primaryForeground": { "hue": 184.6, "saturation": 13.1, "lightness": 19.4 },
     "secondary": { "hue": 0, "saturation": 0, "lightness": 96 },
     "secondaryForeground": { "hue": 184.6, "saturation": 13.1, "lightness": 19.4 },
@@ -18,7 +18,7 @@
     "accentForeground": { "hue": 184.6, "saturation": 13.1, "lightness": 19.4 },
     "destructive": { "hue": 0, "saturation": 84, "lightness": 60 },
     "destructiveForeground": { "hue": 0, "saturation": 0, "lightness": 98 },
-    "ring": { "hue": 199, "saturation": 100, "lightness": 62 },
+    "ring": { "hue": 199, "saturation": 100, "lightness": 50 },
     "warning": { "hue": 51, "saturation": 100, "lightness": 50 },
     "warningForeground": { "hue": 184.6, "saturation": 13.1, "lightness": 19.4 },
     "selection": { "hue": 217, "saturation": 60, "lightness": 51 }
